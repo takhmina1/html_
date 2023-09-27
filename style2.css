@@ -1,0 +1,17 @@
+h1 {
+  color: pink;
+  font-size: 75px;
+}
+
+body {
+  background-color: blueviolet;
+}
+
+.box {
+  color: red;
+}
+
+p::selection {
+  color: blueviolet;
+  background-color: red;
+}
